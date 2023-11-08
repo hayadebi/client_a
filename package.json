@@ -1,0 +1,15 @@
+{
+  "name": "client_a",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "dev": "node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "fs": "^0.0.1-security"
+  }
+}
